@@ -1,0 +1,10 @@
+
+
+Accounts: 
+JRE-MANAGEMENT, 469103131466, Switch Back
+JRE-PRODUCTION, 956925269668, Blue
+JRE-DEVELOPMENT, 577157658885, Green
+
+Role: OrganizationAccountAccessRole
+
+Policies: FullAWSAccess
